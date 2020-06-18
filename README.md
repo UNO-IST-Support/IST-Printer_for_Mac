@@ -1,4 +1,6 @@
 # Adding ISTPrinter on MacOS 10.15.X or Higher
+This guide will assist staff and faculty in installing the ISTPrinter on their Mac machines.
+Note: YOU MUST BE INSIDE THE BUILDING ON AN ETHERNET CONNECTION OR ON THE VPN WHEN USING WIFI OR FROM OFF CAMPUS FOR THIS TO WORK
 
 1. Click on the apple on the top-left corner of the screen.
 
