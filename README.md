@@ -1,5 +1,5 @@
 # Adding ISTPrinter on MacOS 10.15.X or Higher
-This guide will assist staff and faculty in installing the ISTPrinter on their Mac machines.
+This guide will assist staff and faculty in installing the ISTPrinter on their Mac machines.   
 Note: YOU MUST BE INSIDE THE BUILDING ON AN ETHERNET CONNECTION OR ON THE VPN WHEN USING WIFI OR FROM OFF CAMPUS FOR THIS TO WORK
 
 1. Download and install the 2 drivers for MacOS that are located on our Github repository. These drivers will install the needed software for the printer. 
