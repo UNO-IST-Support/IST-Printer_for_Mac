@@ -20,7 +20,7 @@ Note: YOU MUST BE INSIDE THE BUILDING ON AN ETHERNET CONNECTION OR ON THE VPN WH
 
 ![advanced](http://g.recordit.co/yRqd8XTR3r.gif)
 
-7. Click the "Advanced" icon, and let it load. Once it loads, change the type to "Windows printer via spoolss" and device to "Another Device. Once those have been set, change URL box to say smb://printers.ist.unomaha.edu/ISTPrinter
+7. Click the "Advanced" icon, and let it load. Once it loads, change the type to "Windows printer via spoolss" and device to "Another Device. Once those have been set, change URL box to say smb://printers.ist.unomaha.edu/ISTPrinter    
 In the Name field, add ISTPrinter to avoid confusion. 
 
 
