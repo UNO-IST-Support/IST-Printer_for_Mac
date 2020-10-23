@@ -20,11 +20,11 @@ Note: YOU MUST BE INSIDE THE BUILDING ON AN ETHERNET CONNECTION OR ON THE VPN WH
 
 ![advanced](http://g.recordit.co/yRqd8XTR3r.gif)
 
-7. Click the "Advanced" icon, and let it load. Once it loads, change the type to "Windows printer via spoolss" and device to "Another Device. Once those have been set, change URL box to say smb://printers.ist.unomaha.edu/ISTPrinter    
+7. Click the "Advanced" icon, and let it load. Once it loads, change the type to "Windows printer via spoolss" and device to "Another Device. Once those have been set, change URL box to say smb://printers/ISTPrinter    
 In the Name field, add ISTPrinter to avoid confusion. 
 
 
-![setup](http://g.recordit.co/GM144iapYf.gif)
+![setup](http://g.recordit.co/e0cyf3969z.gif)
 
 
 8. Under "Use" click "Select Software" and scroll down until you see Konica Minolta 754e PS. Select this option. Hit OK when you have changed the other settings. This will lead you to a next page that asks for more set up options. You will want to set each one as the following: Paper unit LU-301, Finisher is FS-535, Punch Unit is PK-521 2/3 hole. 
