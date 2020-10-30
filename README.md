@@ -29,6 +29,6 @@ In the Name field, add ISTPrinter to avoid confusion.
 
 8. Under "Use" click "Select Software" and scroll down until you see Konica Minolta 754e PS. Select this option. Hit OK when you have changed the other settings. This will lead you to a next page that asks for more set up options. You will want to set each one as the following: Paper unit LU-301, Finisher is FS-535, Punch Unit is PK-521 2/3 hole. 
 
-9. Once the printer has been set up, you can right click it and set as default. Then run a test print by opening textedit or word and writing "test". This should bring up a window asking for your credentials. Fill in your full email address and your password to log in. If you don't want to enter your credentials every time, check the box to store it into keychain. After this, the printer is all set up!
+9. Once the printer has been set up, you can right click it and set as default. Then run a test print by opening textedit or word and writing "test". This should bring up a window asking for your credentials. Fill in your full email address and your password to log in. If it doesn't take your email address, try just your NetID (Just remove the @unomaha.edu). Sometimes it can be picky. If you don't want to enter your credentials every time, check the box to store it into keychain. After this, the printer is all set up!
 
 Note: If you would like to to hole punch and/or staple, you will need to click the dropdown during page setup that says layout, choose printer features and scroll down. The options are in the list somewhere.
