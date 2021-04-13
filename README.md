@@ -1,8 +1,10 @@
 # Adding ISTPrinter on MacOS 10.15.X or Higher
-This guide will assist staff and faculty in installing the ISTPrinter on their Mac machines.   
+This guide will assist staff and faculty in installing the ISTPrinter on their Mac machines. If you would like to see extra printing information, please follow this link: https://cist.unomaha.edu/printing  
 Note: **YOU MUST BE INSIDE THE BUILDING ON AN ETHERNET CONNECTION OR ON THE VPN WHEN USING WIFI OR FROM OFF CAMPUS FOR THIS TO WORK**
+<br/>
+## Please remove the old printer first before continuing by following these steps: Open your Apple Menu in the top-left corner of the screen, Select 'System Preferences', then 'Printers and Scanners', select the ISTPrinter from the menu on the left, and press the minus button on the bottom and remove it. Next you will need to remove your credentials from this printer so they don't conflict with the new printer. You will need to open "Keychain Access" or just "Keychain" and select "login" on the left side. This should bring up a list of things. Near the top of the window, next to "All Items" select "Passwords". Scroll through this list until you find "ISTPrinter" (Or whatever you decided to name it) and delete that entry.
 
-1. Download and install the 2 drivers for MacOS that are located on our Github repository. These drivers will install the needed software for the printer. To install them, you simply need to double click them, and go through the install process. Shouldn't take long and is straight forward.
+1. Download and install the driver for MacOS that are located on the SharpUSA website: https://business.sharpusa.com/product-downloads. You will need to set these options: "Product Category -> MFPs" "Product -> MX-7580N" "File Type -> Drivers and Utilities". Click "Search" and this should open a new page with your options and a list of drivers that you can choose from. Please choose the Mac Driver that is labelled "Mac OS Driver Package" and find the one that has "PS Mac OS 10.x to 10.x" that fits your operating system. You can find the OS number in the About section of your Mac. This driver will install the needed software for the printer. To install them, you simply need to double click them, and go through the install process. Shouldn't take long and is straight forward.
 
 2. Click on the apple on the top-left corner of the screen.
 
