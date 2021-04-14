@@ -26,7 +26,7 @@ Note: **YOU MUST BE INSIDE THE BUILDING ON AN ETHERNET CONNECTION OR ON THE VPN 
 In the Name field, add ISTPrinter to avoid confusion. 
 
 
-![setup](https://recordit.co/wDQyFD02Mn)
+![setup](http://g.recordit.co/wDQyFD02Mn.gif)
 
 
 8. Under "Use" click "Select Software" and scroll down until you see Konica Minolta 754e PS. Select this option. Hit OK when you have changed the other settings. This will lead you to a next page that asks for more set up options. You will want to set each one as the following: Paper unit LU-301, Finisher is FS-535, Punch Unit is PK-521 2/3 hole. 
