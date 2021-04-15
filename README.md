@@ -1,5 +1,5 @@
-# Adding ISTPrinter on MacOS 10.15.X or Higher
-This guide will assist staff and faculty in installing the ISTPrinter on their Mac machines. If you would like to see extra printing information, please follow this link: https://cist.unomaha.edu/printing  
+# Adding IST-Printer on MacOS 10.15.X or Higher
+This guide will assist staff and faculty in installing the IST-Printer on their Mac machines. If you would like to see extra printing information, please follow this link: https://cist.unomaha.edu/printing  
 Note: **YOU MUST BE INSIDE THE BUILDING ON AN ETHERNET CONNECTION OR ON THE VPN WHEN USING WIFI OR FROM OFF CAMPUS FOR THIS TO WORK**
 <br/>
 ## Please remove the old printer first before continuing by following these steps: Open your Apple Menu in the top-left corner of the screen, Select 'System Preferences', then 'Printers and Scanners', select the ISTPrinter from the menu on the left, and press the minus button on the bottom and remove it. Next you will need to remove your credentials from this printer so they don't conflict with the new printer. You will need to open "Keychain Access" or just "Keychain" and select "login" on the left side. This should bring up a list of things. Near the top of the window, next to "All Items" select "Passwords". Scroll through this list until you find "ISTPrinter" (Or whatever you decided to name it) and delete that entry.
